@@ -14,7 +14,7 @@ Estou estudando Node.js e React, pois me admirei com a agilidade na produção e
 
 Estou a procura de desafios que me “vistam” melhor, e que eu consiga somar fazendo o que eu gosto de fazer, que é aprender e desenvolver.
 
-O meio mais rápido para me localizar é através do meu Whatsapp +5581993555000
+O meio mais rápido para me localizar é através do meu Whatsapp http://api.whatsapp.com/send?phone=5581993555000
 
 
 <!--
