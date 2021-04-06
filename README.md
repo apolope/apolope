@@ -12,6 +12,8 @@
 ![node](https://img.shields.io/badge/Node.JS-000000?style=plastic&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express.JS-000000?style=plastic)
 ![.net](https://img.shields.io/badge/Dot%20NET-000000?style=plastic&logo=.net&logoColor=white)
+![.net](https://img.shields.io/badge/Dot%20NET%20Core-000000?style=plastic&logo=.net&logoColor=white)
+![ef](https://img.shields.io/badge/Entity%20Framework-000000?style=plastic&logo=entity-framework-4&logoColor=white)
 ![c#](https://img.shields.io/badge/C%20Sharp-000000?style=plastic&logo=c-sharp&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-000000?style=plastic&logo=angular&logoColor=white)
 ![react](https://img.shields.io/badge/React-000000?style=plastic&logo=react&logoColor=white)
