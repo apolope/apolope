@@ -24,7 +24,7 @@
 ![sqlserver](https://img.shields.io/badge/SQL%20Server-000000?style=plastic&logo=microsoft-sql-server&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual%20Studio-000000?style=plastic&logo=visual-studio-code&logoColor=white)
 
-<img align="right" height="250" src="http://apolonioserafim.com.br/Dog.png">
+<img align="right" height="250" src="https://raw.githubusercontent.com/apolope/apolope/main/b261658361_1_-removebg-preview.png">
 
 Technology enthusiast, eternal apprentice and IT student, I still have the area as a hobby by now, but I'm interested in migrating when a opportunity arises.
 I'm currently working at Claro, in the telecommunications area, running the public telephony and maintenance sector and operating the Backbone aswell.
