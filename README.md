@@ -26,22 +26,22 @@
 
 <img align="right" height="250" src="https://raw.githubusercontent.com/apolope/apolope/main/b261658361_1_-removebg-preview.png">
 
-Technology enthusiast, eternal apprentice and IT student, I still have the area as a hobby by now, but I'm interested in migrating when a opportunity arises.
-I'm currently working at Claro, in the telecommunications area, running the public telephony and maintenance sector and operating the Backbone aswell.
+Technology enthusiast, eternal apprentice and IT student, active developer.
+I'm currently working at MV, in the hospital area.
 I’ve made some small systems, but the most significant one was the Fleet Control for the company I work for, using Laravel, which is currently being used on all states in the Northeast of Brazil, and it should be implemented Nationwide shortly.
 I'm studying Nodejs, React, Nextjs, React Native because I was impressed with the agility in production and their learning curves.
 I'm improving my knowledge in .NET Core and Angular 8, which are languages that I admire.
-I'm looking for challenges that are more compatible with me, which I can have the feeling of being useful, doing what I like to do, that is to learn and develop.
-I'm a technology enthusiast and unfortunately I still have it as a hobby by now, but I’m striving to become a worker that can add potential knowledges to companies and engage me inside the labour market.
+I'm looking for challenges that are more compatible with me every time, which I can have the feeling of being useful, doing what I like to do, that is to learn and develop.
+I'm a technology enthusiast.
 The fastest way to conctact me is through my Whatsapp.
 
-Entusiasta da tecnologia, eterno aprendiz e estudante de TI, tenho a área ainda como um hobby, mas pretendo migrar assim que me surgir uma oportunidade.
-Atualmente funcionário da Claro, atuando na área de telecomunicações no setor de operação e manutenção de Backbone e telefonia pública.
+Entusiasta da tecnologia, eterno aprendiz e estudante de TI, atuante.
+Atualmente funcionário da MV, atuando na área hospitalar.
 Já produzi alguns pequenos sistemas, mas o mais significativo foi o de controle de frotas para a empresa que trabalho, utilizando o Laravel, que atualmente atende a todos os estados do Nordeste, mas que está com previsão para abrangência nacional.
 Estou estudando Nodejs, React, Nextjs, React Native pois me admirei com a agilidade na produção e facilidade da aprendizagem.
 Estou me aperfeiçoando em .NET Core e Angular 8, que são ferramentas que admiro.
-Estou a procura de desafios que me “vistam” melhor, e que eu consiga somar fazendo o que eu gosto de fazer, que é aprender e desenvolver.
-Sou aficionado por tecnologia e infelizmente ainda a tenho como hobby, mas tenho me empenhado em se tornar uma peça que possa somar com as empresas e me engajar no mercado de trabalho.
+Sempre em busca de desafios que me “vistam” melhor, e que eu consiga somar fazendo o que eu gosto de fazer, que é aprender e desenvolver.
+Sou aficionado por tecnologia.
 O meio mais rápido para me localizar é através do meu Whatsapp.
 
 [![Twitter Badge](https://img.shields.io/badge/-@apolonio_s-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/apolonio_s)](https://twitter.com/apolonio_s)
